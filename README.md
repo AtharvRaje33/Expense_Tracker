@@ -10,3 +10,5 @@ Expense Tracker is a **Flutter** application designed to help users manage their
 - **Responsive UI** for mobile devices
 
 ## Demo
+![Expense Tracker Demo](f1.jpg)
+![Expense Tracker Demo](f2.jpg)
